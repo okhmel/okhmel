@@ -14,11 +14,11 @@ The Performance Review, in general, includes the following stages:
 - **Soft Competencies Review** – where you, your teammates, and the manager from your project evaluate your soft competencies.
 - **Performance Review Outcomes meeting** – where you and your manager discuss the outcomes of the Functional Review and Soft Competencies Review and set the goals for the next period.
 
-![alt text](https://github.com/okhmel/okhmel/blob/main/1.png)
+![alt text](https://github.com/okhmel/okhmel/blob/main/1.png "Logo Title Text 1")
 
 On the **My Review page,** you can find the data related to your [current Performance Review event](https://www.google.com) , track its status, view the results of the team's review and expert evaluation.
 
-On the **Performance Reviews** tab, you have a list of all your [previous Performance Review events](<https://www.yahoo.com>) conducted in the People Excellence 2.0 application displaying the full information and results of each stage.
+On the **Performance Reviews** tab, you have a list of all your [previous Performance Review event](<https://www.yahoo.com>) conducted in the People Excellence 2.0 application displaying the full information and results of each stage.
 
 Check out our [video library](https://www.example.com) for quick assistance with the Performance Review procedures.
 
@@ -33,9 +33,7 @@ The self-review form contains the list of competencies with the defined jobs tha
 1.On the widget, select **Review**.
 If you have the Secondary or Role profiles, switch between them below the widget to complete each available form. The profile tile displays a progress circle of marked jobs within the form.
 
-<divstyle="background-color: #f2f2f2; padding: 10px;">
-**Note:** If it is not your first Performance Review event, then you may see the   labels in the review form indicating the new items in the current Job Standard (job, level, competency) comparing to its previous version.
-</div>
+<div style="background-color: #F2F2F2"> <strong> Note: </strong> If it is not your first Performance Review event, then you may see the   labels in the review form indicating the new items in the current Job Standard (job, level, competency) comparing to its previous version.</div>
 
 2.For every job in every competency, select the proper responses:
 
@@ -51,7 +49,7 @@ To view details about a certain job, including job description, knowledge items,
 
 3.When you mark all jobs in all competencies within the profile, click **Submit**.
 
-![alt text](https://github.com/okhmel/okhmel/blob/main/2.png)
+![alt text](https://github.com/okhmel/okhmel/blob/main/2.png "Logo Title Text 2")
 
 | **Expert** | **Header 2** |
 | --- | --- |
